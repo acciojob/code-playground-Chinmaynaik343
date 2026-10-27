@@ -1,1 +1,24 @@
 
+.main-container {
+  text-align: center;
+  margin: 30px auto;
+  padding: 20px;
+  max-width: 800px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: blue;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
